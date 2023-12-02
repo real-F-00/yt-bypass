@@ -3,7 +3,7 @@ these are some instructions to bypass the youtube anti-adblocker popups or fix t
 
 ### if you're on a Chromium-based web browser (Chrome, Brave, Edge, Opera, Vivaldi, ecc...)
 1) install the [User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg) from the chrome web store
-2) go to to its [Settings](chrome-extension://djflhoibgkdhkhhcedjiklpkjnoahfmg/options.html)
+2) go to your browser's address bar at the top of the browser window and paste `chrome-extension://djflhoibgkdhkhhcedjiklpkjnoahfmg/options.html` (make sure you're using the bar at the top and NOT a search engine like Google.), a new browser tab will have popped up.
 3) under `New User-agent name` insert: `Googlebot`, under `New User-Agent String` insert: `Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)` (this part is **VERY** important, make sure you pasted it correctly.), under `Group` insert: `Googlebot`, under `Append?` select: `Append`, under `Indicator Flag` insert: `GB`, then click `Add`.
 4) now you'll see that in the list of the available User-Agents you'll have a new group called `Googlebot` with a new option: `Googlebot` and the User-agent string we inserted earlier.
 5) on the left of the page you'll see more options, click on `Permanent Spoof list`, this will bring you to a new page.
