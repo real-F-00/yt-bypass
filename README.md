@@ -1,6 +1,10 @@
 # yt-bypass
 these are some instructions to bypass the youtube anti-adblocker popups or fix the page not loading at all when using an adblocker.
 
+### _**IMPORTANT DISCLAIMER, DON'T SKIP READING THIS PART:**_
+
+- **THIS GUIDE ASSUMES THAT YOU'RE ON THE LATEST VERSION OF YOUR BROWSER, IF YOU'RE NOT ON THE LATEST VERSION OF THE BROWSER YOU'RE USING MAKE SURE TO UPDATE TO THE LATEST VERSION BEFORE YOU PROCEED.**
+
 ### if you're on a Chromium-based web browser (Chrome, Brave, Edge, Opera, Vivaldi, ecc...)
 1) install the [User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg) from the chrome web store
 2) go to your browser's address bar at the top of the browser window and paste `chrome-extension://djflhoibgkdhkhhcedjiklpkjnoahfmg/options.html` (make sure you're using the bar at the top and NOT a search engine like Google.), a new browser tab will have popped up.
